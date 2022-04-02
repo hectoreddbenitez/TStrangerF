@@ -117,7 +117,7 @@ class StrangerThings extends React.Component {
       >
         <div className="content strangerfy">
           <div className="change-reality">
-            <div>Em desenvolvimento</div>
+            {/* <div>&apos;Em desenvolvimento&apos;</div> */}
             <button type="button" onClick={ this.changeRealityClick }>
               {' '}
               Mudar de Realidade
